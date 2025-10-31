@@ -1,31 +1,57 @@
-<h1 align="center">👋 Hi, I'm Caio Madiouni</h1>
+<!-- Profile README for Caio Madiouni -->
+
+<h1 align="center">
+  👋 Hi, I'm <span style="color:#00FFFF;">Caio Madiouni</span>
+</h1>
 
 <p align="center">
-  <b>💻 Software Engineering Student | 🌐 Web Developer | 🤖 Passionate about Coding & AI</b>
+  <b>💻 Software Engineering Student | 🌐 Web Developer | 🤖 Passionate about AI & Coding</b>
 </p>
 
 ---
 
 ### 🧠 About Me
-🎓 I’m a Software Engineering student who loves to build creative, functional, and efficient solutions.  
-💡 I enjoy exploring new technologies, designing clean interfaces, and solving real-world problems through code.  
-🌍 Currently focused on web development and improving my skills in **Python**, **JavaScript**, and modern frameworks.
+🎓 A Software Engineering student who enjoys building creative, functional, and efficient digital solutions.  
+💡 Passionate about exploring new technologies, designing clean UIs, and solving real-world problems through code.  
+🌍 Currently improving my skills in **Python**, **JavaScript**, and modern frameworks.
 
 ---
 
-### 🚀 Current Goals
-- Building personal web projects using **React** and **Node.js**  
-- Learning **TypeScript** and improving my **Backend Development** skills  
-- Exploring ways to integrate **AI** into web applications  
+### 🎯 Current Goals
+🚀 Building personal projects using **React** and **Node.js**  
+📘 Learning **TypeScript** and improving my **Backend Development** skills  
+🧠 Exploring ways to integrate **AI** into real-world web applications  
 
 ---
 
-### 🛠️ Tech Stack
-💾 Languages: `Python`, `JavaScript`, `C++`, `HTML`, `CSS`  
-⚙️ Frameworks & Tools: `React`, `Node.js`, `Git`, `VS Code`  
-🧩 Interests: `AI`, `Machine Learning`, `Full-Stack Development`
+### ⚙️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,nodejs,git,vscode&theme=dark" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Caio-madiouni&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-madiouni&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
+</p>
 
 ---
 
 ### ⚡ Fun Fact
-I love turning creative ideas into real projects — every line of code is a small piece of art ✨
+✨ I believe every line of code is a small piece of art — turning creativity into reality one commit at a time!
+
+---
+
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://www.instagram.com/cx7hil" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.tiktok.com/@revnxi7?is_from_webapp=1&sender_device=pc" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white"/>
+  </a>
+</p>
+
+---
