@@ -1,4 +1,4 @@
-<!-- ✨ PROFILE README by Caio Madiouni ✨ -->
+<!-- Caio Madiouni - GitHub Profile README -->
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=👋+Hi%2C+I'm+Caio+Madiouni;💻+Software+Engineering+Student;🌐+Web+Developer;🤖+Passionate+about+AI+and+Coding" alt="Typing SVG" />
@@ -6,78 +6,76 @@
 
 ---
 
-### 🧠 About Me
-🎓 I’m a **Software Engineering student** who enjoys building creative, functional, and efficient digital solutions.  
-💡 Passionate about exploring new technologies, designing clean UIs, and solving real-world problems through code.  
-🚀 Currently improving my skills in **Python**, **JavaScript**, and **modern web frameworks**.
+### 👨‍💻 About Me
+- 🎓 I'm a **Software Engineering student** who enjoys building creative, functional, and efficient digital solutions.  
+- 🚀 Passionate about exploring new technologies, designing clean UIs, and solving real-world problems through code.  
+- 💡 Currently improving my skills in **Python, JavaScript, and modern web frameworks**.  
 
 ---
 
 ### 🎯 Current Goals
-- Building personal web projects using **React** and **Node.js**  
-- Learning **TypeScript** and improving my **Backend Development** skills  
-- Exploring ways to integrate **AI** into real-world web applications  
+- 🌱 Building personal web projects using **React** and **Node.js**.  
+- 🧠 Learning **TypeScript** and improving my backend development skills.  
+- 🤖 Exploring ways to integrate **AI** into real-world web applications.  
 
 ---
 
-### 💾 Tech Stack
+### 🧰 Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=python,js,typescript,react,nodejs,html,css,git,vscode" />
 </p>
 
 ---
 
-### 📂 Featured Projects
-- 🧠 [AI Text Classifier](#) — A small AI model for text analysis.  
-- 🌐 [Portfolio Website](#) — Personal responsive portfolio built with React.  
+### 🌟 Featured Projects
+- 🧩 [AI Text Classifier](#) — A small AI model for text analysis.  
+- 🖥️ [Portfolio Website](#) — Personal responsive portfolio built with React.  
 - ⚙️ [Dev Tools CLI](#) — Command-line utilities for developers.  
 
 ---
 
-### 📈 Learning Path
-Currently learning:
-- 🧩 TypeScript  
+### 🧭 Learning Path
+- 📘 TypeScript  
 - ⚙️ Backend with Express.js  
 - ☁️ Cloud Deployment (Vercel / AWS)  
 
 ---
 
+### 🏆 GitHub Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Caio-madiouni&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" />
+</p>
+
+---
+
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Caio-madiouni&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=Caio-madiouni&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Caio-madiouni&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-madiouni&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
+
+---
+
+### 🎨 Fun Fact
+> 💭 *I believe every line of code is a small piece of art — turning creativity into reality one commit at a time!*
 
 ---
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.instagram.com/cx7hil" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="https://instagram.com/oz7hli" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://www.tiktok.com/@revnxi7?is_from_webapp=1&sender_device=pc" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white"/>
+  <a href="https://tiktok.com/@oz7hli" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" alt="TikTok" />
   </a>
   <a href="mailto:madiounicaio@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 ---
 
-### ⚡ Fun Fact
-> “Every line of code is a small piece of art — turning creativity into reality one commit at a time.” 🎨
-
----
-
 <p align="center">
-  <i>✨ Code. Create. Improve. Repeat. ✨</i><br/>
-  <b>~ Caio Madiouni ~</b>
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
