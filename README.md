@@ -1,5 +1,8 @@
 <!-- Caio Madiouni - GitHub Profile README -->
 
+<h1 align="center">👋 Hi, I'm Caio Madiouni</h1>
+<h3 align="center">💻 Software Engineering Student | 🌐 Web Developer | 🤖 AI Enthusiast</h3>
+
 ---
 
 ### 👨‍💻 About Me
