@@ -13,6 +13,13 @@
 
 ---
 
+### 🚀 Current Goals
+- Building personal web projects using **React** and **Node.js**  
+- Learning **TypeScript** and improving my **Backend Development** skills  
+- Exploring ways to integrate **AI** into web applications  
+
+---
+
 ### 🛠️ Tech Stack
 💾 Languages: `Python`, `JavaScript`, `C++`, `HTML`, `CSS`  
 ⚙️ Frameworks & Tools: `React`, `Node.js`, `Git`, `VS Code`  
