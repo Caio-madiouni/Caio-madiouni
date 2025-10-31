@@ -20,17 +20,5 @@
 
 ---
 
-### 🌐 Connect with Me
-<p align="center">
-  <a href="https://www.tiktok.com/@revnxi7?is_from_webapp=1&sender_device=pc" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white"/>
-  </a>
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
 ### ⚡ Fun Fact
 I love turning creative ideas into real projects — every line of code is a small piece of art ✨
